@@ -1,4 +1,4 @@
-# Swift UI Text("text") markdown
+# Swift UI Text(text) markdown
 
 ```swift
 let text = "*Oleg Dmitriev*, \n\n*Навыки:* \n~Swift~, ~UIKit~, ~SwiftUI~, ~SnapKit~, ~Core Data~  \n\n*Работа с сетью:* \n~REST API~, ~URLSession~, ~JSON~, \n\n*Дополнительно:* \n@red(Git), @007BFC(GitHub)"
